@@ -1,0 +1,8 @@
+.DS_Store
+composer.lock
+vendor
+.idea
+.job
+lib/fonts/*.afm.php
+lib/fonts/*.ufm.php
+lib/fonts/log.htm

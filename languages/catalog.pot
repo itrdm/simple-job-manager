@@ -1,0 +1,1078 @@
+msgid ""
+msgstr ""
+"Job-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: include/admin_reports.class.php:19
+msgid "Overview"
+msgstr ""
+
+#: include/admin_reports.class.php:20 include/jobs.cpt.php:7
+#: include/jobs.cpt.php:9 include/jobs.cpt.php:22 jobs.php:311
+msgid "Jobs"
+msgstr ""
+
+#: include/admin_reports.class.php:21 include/clients.cpt.php:7
+#: include/clients.cpt.php:9 include/clients.cpt.php:22
+msgid "Clients"
+msgstr ""
+
+#: include/admin_reports.class.php:22 include/invoices.cpt.php:7
+#: include/invoices.cpt.php:9 include/invoices.cpt.php:22 jobs.php:312
+msgid "Invoices"
+msgstr ""
+
+#: include/admin_settings_page.php:38
+msgid "Settings Page"
+msgstr ""
+
+#: include/admin_settings_page.php:43
+msgid "Company Name"
+msgstr ""
+
+#: include/admin_settings_page.php:50
+msgid "Company Address"
+msgstr ""
+
+#: include/admin_settings_page.php:58
+msgid "Company Email"
+msgstr ""
+
+#: include/admin_settings_page.php:65
+msgid "Company Website"
+msgstr ""
+
+#: include/admin_settings_page.php:72
+msgid "Company Mobile"
+msgstr ""
+
+#: include/admin_settings_page.php:79
+msgid "Company Logo"
+msgstr ""
+
+#: include/admin_settings_page.php:82
+msgid "Upload"
+msgstr ""
+
+#: include/admin_settings_page.php:89
+msgid "Invoice Template"
+msgstr ""
+
+#: include/admin_settings_page.php:97
+msgid "Default Currency"
+msgstr ""
+
+#: include/admin_settings_page.php:104 include/invoices.table.metabox.php:919
+msgid "Currency Position"
+msgstr ""
+
+#: include/admin_settings_page.php:107 include/invoices.table.metabox.php:923
+msgid "Left of price"
+msgstr ""
+
+#: include/admin_settings_page.php:108 include/invoices.table.metabox.php:924
+msgid "Right of price"
+msgstr ""
+
+#: include/admin_settings_page.php:115
+msgid "Default VAT Value"
+msgstr ""
+
+#: include/admin_settings_page.php:123
+msgid "Invoice Terms"
+msgstr ""
+
+#: include/admin_settings_page.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: include/clients.cpt.php:5
+msgctxt "Post Type General Name"
+msgid "Client"
+msgstr ""
+
+#: include/clients.cpt.php:6
+msgctxt "Post Type Singular Name"
+msgid "Client"
+msgstr ""
+
+#: include/clients.cpt.php:8
+msgid "Parent Client :"
+msgstr ""
+
+#: include/clients.cpt.php:10
+msgid "View Client"
+msgstr ""
+
+#: include/clients.cpt.php:11 include/clients.cpt.php:12
+msgid "Add Client"
+msgstr ""
+
+#: include/clients.cpt.php:13
+msgid "Edit Client"
+msgstr ""
+
+#: include/clients.cpt.php:14
+msgid "Update Client"
+msgstr ""
+
+#: include/clients.cpt.php:15
+msgid "Search Client"
+msgstr ""
+
+#: include/clients.cpt.php:16
+msgid "No Client found"
+msgstr ""
+
+#: include/clients.cpt.php:17 include/invoices.cpt.php:17
+#: include/jobs.cpt.php:17 include/tasks.cpt.php:17
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/clients.cpt.php:21
+msgid "rdm_Client"
+msgstr ""
+
+#: include/clients.metabox.php:22
+msgid "Personal Information"
+msgstr ""
+
+#: include/clients.metabox.php:35
+msgid "Dont Associate"
+msgstr ""
+
+#: include/clients.metabox.php:47
+msgid "Associate with existing WordPress account"
+msgstr ""
+
+#: include/clients.metabox.php:63
+msgid "First name"
+msgstr ""
+
+#: include/clients.metabox.php:72
+msgid "Middle name"
+msgstr ""
+
+#: include/clients.metabox.php:80
+msgid "Last name"
+msgstr ""
+
+#: include/clients.metabox.php:91 include/helpers/clients.helper.class.php:422
+#: include/helpers/clients.helper.class.php:455
+#: include/helpers/reports_pages/clients_tab_content.php:28
+#: invoice_templates/template1/template.php:149
+#: invoice_templates/template2/template.php:158
+msgid "Email"
+msgstr ""
+
+#: include/clients.metabox.php:100 include/helpers/clients.helper.class.php:425
+#: include/helpers/clients.helper.class.php:458
+#: include/helpers/reports_pages/clients_tab_content.php:33
+msgid "Phone"
+msgstr ""
+
+#: include/clients.metabox.php:109 include/helpers/clients.helper.class.php:429
+#: include/helpers/clients.helper.class.php:461
+#: include/helpers/reports_pages/clients_tab_content.php:38
+#: invoice_templates/template1/template.php:157
+#: invoice_templates/template2/template.php:166
+msgid "Mobile"
+msgstr ""
+
+#: include/clients.metabox.php:120
+msgid "Address"
+msgstr ""
+
+#: include/clients.metabox.php:130 include/helpers/clients.helper.class.php:432
+#: include/helpers/clients.helper.class.php:464
+msgid "Skype"
+msgstr ""
+
+#: include/clients.metabox.php:139
+msgid "Facebook"
+msgstr ""
+
+#: include/clients.metabox.php:183
+msgid "Client Jobs"
+msgstr ""
+
+#: include/clients.metabox.php:216
+msgid "Client Invoices"
+msgstr ""
+
+#: include/clients.metabox.php:250
+msgid "Client Review"
+msgstr ""
+
+#: include/clients.metabox.php:262 include/clients_list_extra_columns.php:7
+#: include/clients_list_extra_columns.php:34
+msgid "No reviews"
+msgstr ""
+
+#: include/helpers/clients.helper.class.php:12
+#: include/helpers/clients.helper.class.php:41
+#: include/helpers/clients.helper.class.php:253
+#: include/helpers/invoice.helper.class.php:318
+#: include/helpers/invoice.helper.class.php:324
+#: include/helpers/invoice.helper.class.php:328
+#: include/helpers/invoice.helper.class.php:338
+#: include/helpers/invoice.helper.class.php:341
+#: include/helpers/invoice.helper.class.php:363
+#: include/helpers/invoice.helper.class.php:366
+#: include/helpers/jobs.helper.class.php:249
+#: include/helpers/jobs.helper.class.php:265
+#: include/helpers/jobs.helper.class.php:289
+#: include/helpers/jobs.helper.class.php:338
+#: include/invoice_list_extra_columns.php:11
+#: include/invoice_list_extra_columns.php:17
+#: include/invoice_list_extra_columns.php:26 include/jobs.metabox.php:86
+#: include/jobs.metabox.php:103 include/jobs.metabox.php:123
+#: include/jobs.metabox.php:171
+msgid "Not Set"
+msgstr ""
+
+#: include/helpers/clients.helper.class.php:69
+#: include/helpers/invoice.helper.class.php:463
+#: include/helpers/jobs.helper.class.php:309
+#: include/helpers/jobs.helper.class.php:441
+msgid "All"
+msgstr ""
+
+#: include/helpers/clients.helper.class.php:395
+#, php-format
+msgid "<h3>Found  %s client </h3>"
+msgid_plural "<h3>Found  %s clients </h3>"
+msgstr[0] "<h3>U gjet %s klient </h3>"
+msgstr[1] "<h3>U gjeten %s kliente </h3>"
+
+#: include/helpers/clients.helper.class.php:411
+#: include/helpers/clients.helper.class.php:444
+#: include/helpers/invoice.helper.class.php:591
+#: include/helpers/invoice.helper.class.php:616
+#: include/helpers/jobs.helper.class.php:648
+#: include/helpers/jobs.helper.class.php:683
+#: include/helpers/reports_pages/clients_tab_content.php:12
+#: include/helpers/reports_pages/Jobs_tab_content.php:18
+#: include/invoices.table.metabox.php:783
+#: invoice_templates/template2/template.php:30 jobs.php:282
+#: jobs.php:310 jobs.php:332
+msgid "Client"
+msgstr ""
+
+#: include/helpers/clients.helper.class.php:414
+#: include/helpers/clients.helper.class.php:447
+#: include/helpers/reports_pages/clients_tab_content.php:17
+msgid "Name"
+msgstr ""
+
+#: include/helpers/clients.helper.class.php:418
+#: include/helpers/clients.helper.class.php:451
+#: include/helpers/reports_pages/clients_tab_content.php:22
+msgid "Surname"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:12
+msgid "No Invoices"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:464
+#: include/invoices.table.metabox.php:763
+msgid "Unpaid"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:465
+#: include/invoices.table.metabox.php:764
+msgid "Paid"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:466
+#: include/invoices.table.metabox.php:765
+msgid "Overdue"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:467
+#: include/invoices.table.metabox.php:766 include/tasks.metabox.php:57
+#: include/tasks_list_extra_columns.php:36
+msgid "Cancelled"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:562
+#, php-format
+msgid "<h3>Found  %s invoice </h3>"
+msgid_plural "<h3>Found  %s invoices </h3>"
+msgstr[0] "<h3>U gjet  %s fature </h3>"
+msgstr[1] "<h3>U gjeten  %s fatura </h3>"
+
+#: include/helpers/invoice.helper.class.php:576
+#: include/helpers/invoice.helper.class.php:601
+#: include/helpers/jobs.helper.class.php:645
+#: include/helpers/jobs.helper.class.php:680
+msgid "Title"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:579
+#: include/helpers/invoice.helper.class.php:604
+#: include/helpers/jobs.helper.class.php:656
+#: include/helpers/jobs.helper.class.php:691
+#: include/helpers/reports_pages/invoices_tab_content.php:22
+#: include/helpers/reports_pages/Jobs_tab_content.php:34 jobs.php:280
+#: jobs.php:331
+msgid "Status"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:582
+#: include/helpers/invoice.helper.class.php:607
+#: include/invoices.table.metabox.php:878
+msgid "Amount"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:585
+#: include/helpers/invoice.helper.class.php:610
+msgid "To be paid by"
+msgstr ""
+
+#: include/helpers/invoice.helper.class.php:588
+#: include/helpers/invoice.helper.class.php:613
+msgid "Paid on"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:18
+#: include/helpers/jobs.helper.class.php:311
+#: include/helpers/jobs.helper.class.php:313
+#: include/jobs.metabox.php:87
+msgid "Lead"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:22 include/tasks.metabox.php:55
+#: include/tasks_list_extra_columns.php:32
+msgid "On Hold"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:26
+#: include/helpers/jobs.helper.class.php:314
+#: include/helpers/reports_pages/overview_tab_content.php:42
+#: include/jobs.metabox.php:90
+msgid "Awaiting Feedback"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:30
+#: include/helpers/jobs.helper.class.php:312
+#: include/jobs.metabox.php:88 include/tasks.metabox.php:54
+#: include/tasks_list_extra_columns.php:41
+msgid "Ongoing"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:34
+#: include/helpers/jobs.helper.class.php:315
+#: include/jobs.metabox.php:91 include/tasks.metabox.php:56
+#: include/tasks_list_extra_columns.php:45
+msgid "Completed"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:49
+msgid "No Jobs"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:253
+#: include/helpers/jobs.helper.class.php:339
+#: include/jobs.metabox.php:124
+msgid "Low"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:257
+#: include/helpers/jobs.helper.class.php:340
+#: include/jobs.metabox.php:125
+msgid "Normal"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:261
+#: include/helpers/jobs.helper.class.php:341
+#: include/jobs.metabox.php:126
+msgid "High"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:310
+msgid "Not set"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:442
+msgid "Before"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:443
+msgid "Exactly"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:444
+msgid "After"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:630
+#, php-format
+msgid "<h3>Found  %s job </h3>"
+msgid_plural "<h3>Found  %s jobs </h3>"
+msgstr[0] "<h3>U gjet  %s projekt </h3>"
+msgstr[1] "<h3>U gjeten  %s projekte </h3>"
+
+#: include/helpers/jobs.helper.class.php:652
+#: include/helpers/jobs.helper.class.php:687
+#: include/helpers/reports_pages/Jobs_tab_content.php:28
+msgid "Progress"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:659
+#: include/helpers/jobs.helper.class.php:694
+#: include/helpers/reports_pages/Jobs_tab_content.php:23
+msgid "Priority"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:663
+#: include/helpers/jobs.helper.class.php:698
+#: include/helpers/reports_pages/Jobs_tab_content.php:39
+#: include/jobs.metabox.php:65 include/tasks.metabox.php:40
+msgid "Start Date"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:666
+#: include/helpers/jobs.helper.class.php:701
+msgid "Target end date"
+msgstr ""
+
+#: include/helpers/jobs.helper.class.php:669
+#: include/helpers/jobs.helper.class.php:704
+msgid "Actual end date"
+msgstr ""
+
+#: include/helpers/reports_pages/clients_tab_content.php:2
+msgid "Clients Tab"
+msgstr ""
+
+#: include/helpers/reports_pages/clients_tab_content.php:49
+msgid "Search Clients"
+msgstr ""
+
+#: include/helpers/reports_pages/invoices_tab_content.php:2
+msgid "Invoices Tab"
+msgstr ""
+
+#: include/helpers/reports_pages/invoices_tab_content.php:12
+msgid "For Client"
+msgstr ""
+
+#: include/helpers/reports_pages/invoices_tab_content.php:17 jobs.php:278
+#: jobs.php:298
+msgid "Job"
+msgstr ""
+
+#: include/helpers/reports_pages/invoices_tab_content.php:29
+msgid "Search Invoices"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:8
+#: include/helpers/reports_pages/overview_tab_content.php:18
+msgid "Completed Jobs"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:12
+msgid "Total Jobs"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:24
+msgid "Lead Jobs"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:30
+msgid "Ongoing Jobs"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:36
+#: include/helpers/reports_pages/overview_tab_content.php:80
+msgid "On-hold Jobs"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:48
+msgid "Status not set"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:58
+msgid "Completed Tasks"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:62
+msgid "Total Tasks"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:68
+msgid "Completed tasks"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:74
+msgid "Ongoing Tasks"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:86
+msgid "Tasks not started"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:95
+#: include/helpers/reports_pages/overview_tab_content.php:119
+msgid "Paid Invoices"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:100
+msgid "Income"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:106
+msgid "Pending"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:113
+msgid "Total Invoices"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:125
+msgid "Unpaid Invoices"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:131
+msgid "Overdue Invoices"
+msgstr ""
+
+#: include/helpers/reports_pages/overview_tab_content.php:137
+msgid "Cancelled Invoices"
+msgstr ""
+
+#: include/helpers/reports_pages/Jobs_tab_content.php:2
+msgid "Jobs Tab"
+msgstr ""
+
+#: include/helpers/reports_pages/Jobs_tab_content.php:45
+#: include/tasks.metabox.php:46
+msgid "End Date"
+msgstr ""
+
+#: include/helpers/reports_pages/Jobs_tab_content.php:50
+msgid "Actual end Date"
+msgstr ""
+
+#: include/helpers/reports_pages/Jobs_tab_content.php:56
+msgid "Search Jobs"
+msgstr ""
+
+#: include/invoices.cpt.php:5
+msgctxt "Post Type General Name"
+msgid "Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:6
+msgctxt "Post Type Singular Name"
+msgid "Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:8
+msgid "Parent Invoice :"
+msgstr ""
+
+#: include/invoices.cpt.php:10
+msgid "View Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:11 include/invoices.cpt.php:12
+msgid "Add Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:13
+msgid "Edit Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:14
+msgid "Update Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:15
+msgid "Search Invoice"
+msgstr ""
+
+#: include/invoices.cpt.php:16
+msgid "No Invoice found"
+msgstr ""
+
+#: include/invoices.cpt.php:21
+msgid "rdm_invoice"
+msgstr ""
+
+#: include/invoices.metabox.php:19
+msgid "Prepare Invoices"
+msgstr ""
+
+#: include/invoices.metabox.php:37
+msgid "Send to client"
+msgstr ""
+
+#: include/invoices.metabox.php:38 include/invoices.table.metabox.php:787
+#: include/jobs.metabox.php:57
+msgid "No client selected"
+msgstr ""
+
+#: include/invoices.metabox.php:49 include/invoices.table.metabox.php:837
+msgid "Related to job"
+msgstr ""
+
+#: include/invoices.metabox.php:50 include/tasks.metabox.php:34
+msgid "No job selected"
+msgstr ""
+
+#: include/invoices.metabox.php:60
+msgid "Related to task"
+msgstr ""
+
+#: include/invoices.metabox.php:61
+msgid "No task selected"
+msgstr ""
+
+#: include/invoices.table.metabox.php:80
+msgid "Add new item"
+msgstr ""
+
+#: include/invoices.table.metabox.php:81
+msgid "Line total"
+msgstr ""
+
+#: include/invoices.table.metabox.php:82
+#: invoice_templates/template1/template.php:51
+#: invoice_templates/template2/template.php:60
+msgid "Quantity"
+msgstr ""
+
+#: include/invoices.table.metabox.php:83
+msgid "Unit Price"
+msgstr ""
+
+#: include/invoices.table.metabox.php:84
+msgid "Item"
+msgstr ""
+
+#: include/invoices.table.metabox.php:85
+msgid "Items on invoice"
+msgstr ""
+
+#: include/invoices.table.metabox.php:86
+msgid "Save"
+msgstr ""
+
+#: include/invoices.table.metabox.php:87
+msgid "Cancel"
+msgstr ""
+
+#: include/invoices.table.metabox.php:88
+msgid "Edit item"
+msgstr ""
+
+#: include/invoices.table.metabox.php:89
+msgid "Are you sure"
+msgstr ""
+
+#: include/invoices.table.metabox.php:90
+msgid "This item will be deleted"
+msgstr ""
+
+#: include/invoices.table.metabox.php:91
+msgid "Delete"
+msgstr ""
+
+#: include/invoices.table.metabox.php:92
+msgid "No data available"
+msgstr ""
+
+#: include/invoices.table.metabox.php:93
+msgid "Loading records"
+msgstr ""
+
+#: include/invoices.table.metabox.php:94
+msgid "No items on invoice"
+msgstr ""
+
+#: include/invoices.table.metabox.php:626
+msgid "Prepare invoice"
+msgstr ""
+
+#: include/invoices.table.metabox.php:744
+msgid "Invoice Private Notes"
+msgstr ""
+
+#: include/invoices.table.metabox.php:749
+msgid "Invoice public notes (visible on invoice)"
+msgstr ""
+
+#: include/invoices.table.metabox.php:753
+msgid "Show general terms also"
+msgstr ""
+
+#: include/invoices.table.metabox.php:761
+msgid "Invoice status"
+msgstr ""
+
+#: include/invoices.table.metabox.php:771
+msgid "To be paid by date"
+msgstr ""
+
+#: include/invoices.table.metabox.php:775
+msgid "Paid Date"
+msgstr ""
+
+#: include/invoices.table.metabox.php:869
+#: invoice_templates/template1/template.php:81
+#: invoice_templates/template2/template.php:90
+msgid "Discount"
+msgstr ""
+
+#: include/invoices.table.metabox.php:876
+msgid "None"
+msgstr ""
+
+#: include/invoices.table.metabox.php:877
+msgid "Percent"
+msgstr ""
+
+#: include/invoices.table.metabox.php:888
+#: include/invoices.table.metabox.php:900
+#: invoice_templates/template1/template.php:97
+#: invoice_templates/template2/template.php:106
+msgid "VAT"
+msgstr ""
+
+#: include/invoices.table.metabox.php:910
+msgid "Currency"
+msgstr ""
+
+#: include/invoices.table.metabox.php:937
+msgid "1. Apply VAT and discount"
+msgstr ""
+
+#: include/invoices.table.metabox.php:939
+msgid "Generate Invoice"
+msgstr ""
+
+#: include/invoices.table.metabox.php:943
+msgid "3.Download Invoice"
+msgstr ""
+
+#: include/invoices.table.metabox.php:946
+msgid "Loading"
+msgstr ""
+
+#: include/invoices.table.metabox.php:960
+msgid "PDF Invoice Preview"
+msgstr ""
+
+#: include/invoices.table.metabox.php:1077
+msgid "No Client Found"
+msgstr ""
+
+#: include/meta-box-class/my-meta-box-class.php:420
+#: include/meta-box-class/my-meta-box-class.php:459
+msgid "Remove"
+msgstr ""
+
+#: include/meta-box-class/my-meta-box-class.php:432
+msgid "Add"
+msgstr ""
+
+#: include/meta-box-class/my-meta-box-class.php:789
+msgid "Select a color"
+msgstr ""
+
+#: include/meta-box-class/my-meta-box-class.php:877
+msgid "Select ..."
+msgstr ""
+
+#: include/meta-box-class/my-meta-box-class.php:1827
+#: include/meta-box-class/my-meta-box-class.php:1835
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: include/jobs.cpt.php:5
+msgctxt "Post Type General Name"
+msgid "Job"
+msgstr ""
+
+#: include/jobs.cpt.php:6
+msgctxt "Post Type Singular Name"
+msgid "Job"
+msgstr ""
+
+#: include/jobs.cpt.php:8
+msgid "Parent Job :"
+msgstr ""
+
+#: include/jobs.cpt.php:10
+msgid "View Job"
+msgstr ""
+
+#: include/jobs.cpt.php:11 include/jobs.cpt.php:12
+msgid "Add Job"
+msgstr ""
+
+#: include/jobs.cpt.php:13
+msgid "Edit Job"
+msgstr ""
+
+#: include/jobs.cpt.php:14
+msgid "Update Job"
+msgstr ""
+
+#: include/jobs.cpt.php:15
+msgid "Search Job"
+msgstr ""
+
+#: include/jobs.cpt.php:16
+msgid "No Job found"
+msgstr ""
+
+#: include/jobs.cpt.php:21
+msgid "rdm_Job"
+msgstr ""
+
+#: include/jobs.metabox.php:16
+msgid "Job Infos"
+msgstr ""
+
+#: include/jobs.metabox.php:32
+msgid "Estimate"
+msgstr ""
+
+#: include/jobs.metabox.php:37
+msgid "Private Job Notes"
+msgstr ""
+
+#: include/jobs.metabox.php:45
+msgid "Public Job Notes"
+msgstr ""
+
+#: include/jobs.metabox.php:56
+msgid "Associate to client"
+msgstr ""
+
+#: include/jobs.metabox.php:71
+msgid "Target End Date"
+msgstr ""
+
+#: include/jobs.metabox.php:76
+msgid "Actual End Date"
+msgstr ""
+
+#: include/jobs.metabox.php:89
+msgid "Onhold"
+msgstr ""
+
+#: include/jobs.metabox.php:94
+msgid "Job Status "
+msgstr ""
+
+#: include/jobs.metabox.php:116
+msgid "Job Progress "
+msgstr ""
+
+#: include/jobs.metabox.php:129
+msgid "Job Priority"
+msgstr ""
+
+#: include/jobs.metabox.php:154 include/jobs.metabox.php:164
+msgid "Job Tasks"
+msgstr ""
+
+#: include/tasks.cpt.php:5
+msgctxt "Post Type General Name"
+msgid "Task"
+msgstr ""
+
+#: include/tasks.cpt.php:6
+msgctxt "Post Type Singular Name"
+msgid "Task"
+msgstr ""
+
+#: include/tasks.cpt.php:7 include/tasks.cpt.php:9 include/tasks.cpt.php:22
+#: jobs.php:281
+msgid "Tasks"
+msgstr ""
+
+#: include/tasks.cpt.php:8
+msgid "Parent Task :"
+msgstr ""
+
+#: include/tasks.cpt.php:10
+msgid "View Task"
+msgstr ""
+
+#: include/tasks.cpt.php:11 include/tasks.cpt.php:12
+msgid "Add Task"
+msgstr ""
+
+#: include/tasks.cpt.php:13
+msgid "Edit Task"
+msgstr ""
+
+#: include/tasks.cpt.php:14
+msgid "Update Task"
+msgstr ""
+
+#: include/tasks.cpt.php:15
+msgid "Search Task"
+msgstr ""
+
+#: include/tasks.cpt.php:16
+msgid "No Task found"
+msgstr ""
+
+#: include/tasks.cpt.php:21
+msgid "rdm_Task"
+msgstr ""
+
+#: include/tasks.metabox.php:16
+msgid "Task Infos"
+msgstr ""
+
+#: include/tasks.metabox.php:33
+msgid "Associate to job"
+msgstr ""
+
+#: include/tasks.metabox.php:53 include/tasks_list_extra_columns.php:28
+msgid "Not Started"
+msgstr ""
+
+#: include/tasks.metabox.php:60 jobs.php:297
+msgid "Task Status"
+msgstr ""
+
+#: include/tasks.metabox.php:68
+msgid "File Description"
+msgstr ""
+
+#: include/tasks.metabox.php:74
+msgid "Add task file"
+msgstr ""
+
+#: include/tasks.metabox.php:81
+msgid "Task Files"
+msgstr ""
+
+#: invoice_templates/template1/template.php:40
+#: invoice_templates/template2/template.php:49 jobs.php:329
+msgid "Invoice"
+msgstr ""
+
+#: invoice_templates/template1/template.php:49
+#: invoice_templates/template2/template.php:58
+msgid "Description"
+msgstr ""
+
+#: invoice_templates/template1/template.php:50
+#: invoice_templates/template2/template.php:59
+msgid "Price"
+msgstr ""
+
+#: invoice_templates/template1/template.php:52
+#: invoice_templates/template2/template.php:61 jobs.php:330
+msgid "Total"
+msgstr ""
+
+#: invoice_templates/template1/template.php:72
+#: invoice_templates/template2/template.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: invoice_templates/template1/template.php:89
+#: invoice_templates/template2/template.php:98
+msgid "Subtotal after discount"
+msgstr ""
+
+#: invoice_templates/template1/template.php:114
+#: invoice_templates/template2/template.php:123
+msgid "Balance"
+msgstr ""
+
+#: invoice_templates/template1/template.php:125
+#: invoice_templates/template2/template.php:134
+msgid "Specific terms"
+msgstr ""
+
+#: invoice_templates/template1/template.php:133
+#: invoice_templates/template2/template.php:142
+msgid "General terms"
+msgstr ""
+
+#: invoice_templates/template1/template.php:153
+#: invoice_templates/template2/template.php:162
+msgid "Web"
+msgstr ""
+
+#: invoice_templates/template2/template.php:14
+msgid "Company"
+msgstr ""
+
+#: jobs.php:131
+msgid "Value From Wordpress Account"
+msgstr ""
+
+#: jobs.php:223
+msgid "Reports"
+msgstr ""
+
+#: jobs.php:226
+msgid "Settings"
+msgstr ""
+
+#: jobs.php:279
+msgid "Deadline"
+msgstr ""
+
+#: jobs.php:283
+msgid "Earning"
+msgstr ""
+
+#: jobs.php:295
+msgid "Task"
+msgstr ""
+
+#: jobs.php:296
+msgid "Task Deadline"
+msgstr ""
+
+#: jobs.php:313
+msgid "Reviews"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Job Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/rdm"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple job management"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rdm"
+msgstr ""
+
+#~ msgid "Found"
+#~ msgstr ""
+
+#~ msgid "Start date"
+#~ msgstr ""
+
+#~ msgid "No Reviews"
+#~ msgstr ""
